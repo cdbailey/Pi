@@ -3,6 +3,7 @@
 The ArgonONE M.2 Pi 4 case is a great variant of the popular ArgonONE Pi 4 case, just with the addition of an M.2 SATA slot within the base of the case.  Utilizing Home Assistant while booting direct from the SSD requires the use of the Home Assistant OS 5.5 development track or greater (as of 29-11-2020).  After imaging the M.2 with HAOS, modify the drive using the instructions below.  After you have HAOS up and running you will then want to install Misiu's Argon40 fan integration.
 
 ArgonONE M.2 Pi 4 case: https://www.argon40.com/argon-one-m-2-case-for-raspberry-pi-4.html
+
 Misiu Argon40 fan integration: https://github.com/Misiu/argon40
 
 
